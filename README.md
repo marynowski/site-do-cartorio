@@ -24,5 +24,3 @@ Caso precise de suporte presencialmente ou por telefone:
 * 📧 **E-mail:** assischat2@hotmail.com
 * 📍 **Endereço:** Rua Presidente Kennedy, 1020, Assis Chateaubriand/PR.
 * ⏰ **Horário:** Segunda a Sexta: 08:30 às 11:00 e 13:00 às 17:00.
-
-</p>
